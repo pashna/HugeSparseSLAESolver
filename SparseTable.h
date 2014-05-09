@@ -1,0 +1,4 @@
+#ifndef SPARSETABLE_H
+#define SPARSETABLE_H
+
+#endif // SPARSETABLE_H
